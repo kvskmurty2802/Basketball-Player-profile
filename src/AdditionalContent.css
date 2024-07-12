@@ -1,0 +1,20 @@
+.additional-content {
+    background-color: var(--background-color);
+    border-radius: var(--card-border-radius);
+    box-shadow: var(--card-shadow);
+    padding: 20px;
+    max-width: 600px;
+    margin: 20px;
+  }
+  
+  .additional-content h2 {
+    color: var(--primary-color);
+    margin-bottom: 10px;
+  }
+  
+  .additional-content p {
+    color: var(--text-color);
+    margin-bottom: 10px;
+    line-height: 1.6;
+  }
+  
